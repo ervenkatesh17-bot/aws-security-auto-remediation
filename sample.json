@@ -1,0 +1,227 @@
+[
+  {
+    "_id": "69abba0e0f15abf075dd065c",
+    "index": 0,
+    "guid": "2d867249-d31a-4518-89a2-607dbba986f7",
+    "isActive": true,
+    "balance": "$2,829.69",
+    "picture": "http://placehold.it/32x32",
+    "age": 37,
+    "eyeColor": "blue",
+    "name": "Boone Gibbs",
+    "gender": "male",
+    "company": "HYPLEX",
+    "email": "boonegibbs@hyplex.com",
+    "phone": "+1 (838) 531-3559",
+    "address": "617 Willoughby Avenue, Advance, American Samoa, 3154",
+    "about": "Aute nulla elit ex consectetur laborum fugiat voluptate nostrud dolore ut quis. Non excepteur adipisicing aliquip occaecat. Ipsum exercitation aliqua nostrud consequat deserunt ipsum mollit mollit do irure. Ullamco ullamco velit aute aliquip aliqua commodo. Nisi minim laboris eiusmod Lorem cillum nostrud sunt est ea nulla tempor anim quis nisi.\r\n",
+    "registered": "2017-11-29T03:48:52 -06:-30",
+    "latitude": 57.384804,
+    "longitude": 78.351388,
+    "tags": [
+      "amet",
+      "labore",
+      "deserunt",
+      "ea",
+      "occaecat",
+      "enim",
+      "elit"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Lina Casey"
+      },
+      {
+        "id": 1,
+        "name": "Mccullough Suarez"
+      },
+      {
+        "id": 2,
+        "name": "Lester Emerson"
+      }
+    ],
+    "greeting": "Hello, Boone Gibbs! You have 7 unread messages.",
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "_id": "69abba0ed71b43a1eb203b42",
+    "index": 1,
+    "guid": "697629d7-c018-470c-978d-82ed3ea9d528",
+    "isActive": false,
+    "balance": "$3,349.53",
+    "picture": "http://placehold.it/32x32",
+    "age": 29,
+    "eyeColor": "blue",
+    "name": "Erma Burns",
+    "gender": "female",
+    "company": "NETPLAX",
+    "email": "ermaburns@netplax.com",
+    "phone": "+1 (879) 478-3738",
+    "address": "194 Amity Street, Enetai, Wisconsin, 5569",
+    "about": "Irure est voluptate id esse. Lorem exercitation aute velit aliqua laborum dolor mollit consectetur minim pariatur sit sunt irure. Dolor eu sint ex Lorem eiusmod ullamco quis. Nisi nostrud magna do id eiusmod sint minim sunt in enim. Labore cillum velit qui reprehenderit id nulla elit mollit esse.\r\n",
+    "registered": "2021-11-03T03:39:26 -06:-30",
+    "latitude": 60.810521,
+    "longitude": 27.415797,
+    "tags": [
+      "consectetur",
+      "qui",
+      "cillum",
+      "sit",
+      "cillum",
+      "eu",
+      "occaecat"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Eugenia Obrien"
+      },
+      {
+        "id": 1,
+        "name": "Hobbs Sloan"
+      },
+      {
+        "id": 2,
+        "name": "Head Clemons"
+      }
+    ],
+    "greeting": "Hello, Erma Burns! You have 6 unread messages.",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": "69abba0e8ba2c52b4f5759a6",
+    "index": 2,
+    "guid": "3d662956-5a0e-4a47-8cc2-824393fb0fe7",
+    "isActive": true,
+    "balance": "$3,433.99",
+    "picture": "http://placehold.it/32x32",
+    "age": 37,
+    "eyeColor": "brown",
+    "name": "Bettie Barber",
+    "gender": "female",
+    "company": "STELAECOR",
+    "email": "bettiebarber@stelaecor.com",
+    "phone": "+1 (871) 463-2380",
+    "address": "365 Grimes Road, Steinhatchee, Florida, 7193",
+    "about": "Tempor do ut fugiat eiusmod eu veniam laboris et cupidatat quis ullamco duis elit magna. Sit labore officia et in cupidatat nisi officia deserunt labore nisi. Ipsum ipsum ex nisi sunt ad. Laborum tempor proident laborum ipsum qui excepteur sunt est officia exercitation ipsum ipsum. Velit esse exercitation irure dolor exercitation cupidatat exercitation velit reprehenderit do anim non ipsum Lorem. Laboris fugiat cupidatat fugiat minim deserunt deserunt.\r\n",
+    "registered": "2017-11-07T01:02:24 -06:-30",
+    "latitude": 58.094564,
+    "longitude": -59.694437,
+    "tags": [
+      "commodo",
+      "fugiat",
+      "ut",
+      "ex",
+      "anim",
+      "ex",
+      "cupidatat"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Oconnor Workman"
+      },
+      {
+        "id": 1,
+        "name": "Tanya Mclaughlin"
+      },
+      {
+        "id": 2,
+        "name": "Jodie Underwood"
+      }
+    ],
+    "greeting": "Hello, Bettie Barber! You have 9 unread messages.",
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "_id": "69abba0e1eaccab42de3a700",
+    "index": 3,
+    "guid": "fa25abac-e8f4-44bd-a0d2-56baa19effc4",
+    "isActive": true,
+    "balance": "$3,139.28",
+    "picture": "http://placehold.it/32x32",
+    "age": 38,
+    "eyeColor": "blue",
+    "name": "Polly Walter",
+    "gender": "female",
+    "company": "TELEQUIET",
+    "email": "pollywalter@telequiet.com",
+    "phone": "+1 (815) 564-2985",
+    "address": "320 Miller Place, Cassel, South Carolina, 5140",
+    "about": "Amet labore nulla nostrud velit qui sunt excepteur mollit. Anim dolor non dolor dolor consectetur excepteur velit irure laborum. Eu id officia sint officia. Mollit in quis eu Lorem nulla magna et deserunt sunt Lorem eu. Cupidatat Lorem ullamco in quis duis amet nisi enim. Dolor eu ipsum magna in enim. Qui duis occaecat ex voluptate.\r\n",
+    "registered": "2022-10-03T07:16:46 -06:-30",
+    "latitude": -45.002135,
+    "longitude": 178.051066,
+    "tags": [
+      "veniam",
+      "laboris",
+      "anim",
+      "dolor",
+      "cillum",
+      "fugiat",
+      "nostrud"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Mcclain Sosa"
+      },
+      {
+        "id": 1,
+        "name": "Kerri Castillo"
+      },
+      {
+        "id": 2,
+        "name": "Dorothea Bishop"
+      }
+    ],
+    "greeting": "Hello, Polly Walter! You have 3 unread messages.",
+    "favoriteFruit": "apple"
+  },
+  {
+    "_id": "69abba0ee3f90ee515b8e7b7",
+    "index": 4,
+    "guid": "b1bf0480-fc78-4749-8e5d-add3b362f259",
+    "isActive": true,
+    "balance": "$2,037.49",
+    "picture": "http://placehold.it/32x32",
+    "age": 37,
+    "eyeColor": "green",
+    "name": "Watts Nieves",
+    "gender": "male",
+    "company": "VINCH",
+    "email": "wattsnieves@vinch.com",
+    "phone": "+1 (917) 404-3503",
+    "address": "267 Farragut Place, Whitehaven, Vermont, 4792",
+    "about": "Sit quis Lorem duis ullamco laborum reprehenderit pariatur cillum elit excepteur consequat officia ut anim. Cupidatat adipisicing aute Lorem veniam occaecat. Lorem est pariatur incididunt dolor ea Lorem aute laboris minim labore. Laborum labore et consectetur adipisicing labore ex. Velit id sit proident eiusmod quis proident id ex qui in proident consectetur proident incididunt. Dolor consectetur fugiat aliqua officia labore dolore sit commodo irure non incididunt sint.\r\n",
+    "registered": "2016-01-20T07:11:35 -06:-30",
+    "latitude": 79.848067,
+    "longitude": -127.461519,
+    "tags": [
+      "qui",
+      "adipisicing",
+      "velit",
+      "irure",
+      "irure",
+      "est",
+      "elit"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Frieda Chang"
+      },
+      {
+        "id": 1,
+        "name": "Noelle Stanton"
+      },
+      {
+        "id": 2,
+        "name": "Lindsey Alvarez"
+      }
+    ],
+    "greeting": "Hello, Watts Nieves! You have 3 unread messages.",
+    "favoriteFruit": "apple"
+  }
+]
